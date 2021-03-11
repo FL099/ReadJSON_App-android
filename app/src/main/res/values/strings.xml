@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Card Overview</string>
+    <string name="btn_load_cards">Load Cards</string>
+    <string name="std_text">Push the button to display something</string>
+</resources>
